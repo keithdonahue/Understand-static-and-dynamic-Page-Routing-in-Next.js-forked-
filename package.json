@@ -1,0 +1,24 @@
+{
+  "name": "understand-static-and-dynamic-page-routing-in-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.3.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.31",
+    "@types/react": "^16.9.26",
+    "@types/react-dom": "^16.9.5",
+    "typescript": "^3.8.3"
+  },
+  "keywords": [],
+  "description": ""
+}
